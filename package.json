@@ -8,7 +8,5 @@
   },
   "author": "Kemal YILDIRIM",
   "license": "MIT",
-  "dependencies": {
-    "parcel": "^1.12.3"
-  }
+  "dependencies": {}
 }
